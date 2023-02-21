@@ -29,4 +29,4 @@ In the starter code, there is a JS function that is supposed to convert the user
 To address this issue, I reviewed the register page's script and found the function which generated a username for AWS Cognitio. I removed the replace method which invalidated the user's email, and that fixed the issue.
 
 ## Finished Product
-[images/map.png]
+![Request a ride](images/map.png)
